@@ -4,8 +4,7 @@ JsforEachOnIE
 
 `forEach(fn(), thisValue)`
 
-    alert(Array.prototype.forEach);  
-    //undefind
+    alert(Array.prototype.forEach);  //undefind
 
 Array.forEach implementation for IE support
 
